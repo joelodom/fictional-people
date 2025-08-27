@@ -99,6 +99,15 @@ def generate_people(count: int = 10, outfile: str = "people.json"):
     raw = call_model(count)
     data = parse_json_strict(raw)
 
+    # Load existing array (or start fresh if file missing/corrupt)
+    try:
+        with open(outfile, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+        if not isinstance(existing, list):
+            existing = []
+    except (FileNotFoundError, json.JSONDecodeError):
+        existing = []
+
     # Validate & repair
     cleaned = []
     for p in data:
@@ -115,6 +124,8 @@ def generate_people(count: int = 10, outfile: str = "people.json"):
             "zipCode": zipc,
             "notes": notes,
         })
+
+    cleaned.extend(existing)
 
     with open(outfile, "w", encoding="utf-8") as f:
         json.dump(cleaned, f, ensure_ascii=False, indent=2)

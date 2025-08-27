@@ -1,0 +1,142 @@
+[
+  {
+    "firstName": "Grace",
+    "lastName": "Henderson",
+    "dateOfBirth": "1932-04-15",
+    "zipCode": "10001",
+    "notes": "Married to Ella; retired teacher and baker."
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Stone",
+    "dateOfBirth": "1950-11-02",
+    "zipCode": "94102",
+    "notes": "Former firefighter; enjoys woodworking and hiking."
+  },
+  {
+    "firstName": "Margaret",
+    "lastName": "Reed",
+    "dateOfBirth": "1965-07-28",
+    "zipCode": "60615",
+    "notes": "Doctor turned novelist; volunteers at library."
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Chen",
+    "dateOfBirth": "1948-02-09",
+    "zipCode": "77005",
+    "notes": "Chef and ceramic artist; loves jazz."
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Patel",
+    "dateOfBirth": "1979-09-13",
+    "zipCode": "33109",
+    "notes": "Software engineer; plays guitar and runs."
+  },
+  {
+    "firstName": "Priya",
+    "lastName": "Kapoor",
+    "dateOfBirth": "1983-03-28",
+    "zipCode": "97204",
+    "notes": "Garden designer; loves cats and coffee."
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "dateOfBirth": "1991-12-06",
+    "zipCode": "30303",
+    "notes": "Teacher and mother of two; enjoys knitting."
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Alvarez",
+    "dateOfBirth": "1970-01-20",
+    "zipCode": "02138",
+    "notes": "Architect; sketches city scenes on weekends."
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Nguyen",
+    "dateOfBirth": "1938-08-07",
+    "zipCode": "83702",
+    "notes": "Biologist; studies bees and writes poetry."
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Thompson",
+    "dateOfBirth": "1928-05-21",
+    "zipCode": "59001",
+    "notes": "Pilot; collects vintage cars and photos."
+  },
+  {
+    "firstName": "James",
+    "lastName": "Hawthorne",
+    "dateOfBirth": "1934-05-21",
+    "zipCode": "10001",
+    "notes": "Retired teacher, loves chess and travel."
+  },
+  {
+    "firstName": "Margaret",
+    "lastName": "Chen",
+    "dateOfBirth": "1948-11-02",
+    "zipCode": "94102",
+    "notes": "Gardener and part-time volunteer."
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Garcia",
+    "dateOfBirth": "1960-03-14",
+    "zipCode": "30303",
+    "notes": "Architect who paints watercolors."
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Carter",
+    "dateOfBirth": "1952-07-09",
+    "zipCode": "02108",
+    "notes": "Chef who runs a weekend market stall."
+  },
+  {
+    "firstName": "Priya",
+    "lastName": "Kapoor",
+    "dateOfBirth": "1984-01-23",
+    "zipCode": "10009",
+    "notes": "Software developer and keen cyclist."
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Nguyen",
+    "dateOfBirth": "1979-12-05",
+    "zipCode": "94016",
+    "notes": "Photographer who shoots nature."
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Johnson",
+    "dateOfBirth": "1931-04-04",
+    "zipCode": "60601",
+    "notes": "Former nurse, plays the piano."
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Kim",
+    "dateOfBirth": "1939-09-18",
+    "zipCode": "33101",
+    "notes": "Retired pilot who volunteers weekly."
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Rossi",
+    "dateOfBirth": "1968-02-28",
+    "zipCode": "60612",
+    "notes": "Biologist researching urban ecosystems."
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Walker",
+    "dateOfBirth": "1924-11-11",
+    "zipCode": "80012",
+    "notes": "WWII veteran, enjoys woodworking."
+  }
+]
