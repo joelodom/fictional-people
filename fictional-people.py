@@ -133,5 +133,5 @@ def generate_people(count: int = 10, outfile: str = "people.json"):
     print(f"Wrote {len(cleaned)} people to {outfile}")
 
 if __name__ == "__main__":
-    # set OPENAI_API_KEY in your environment before running
-    generate_people(count=10, outfile="people.json")
+    while True:
+        generate_people(count=10, outfile="people.json")
